@@ -3,10 +3,10 @@
 </div>
 <br>
 
-## `@knaaptime`
+
+## @knaaptime
 
 
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/knaaptime)
 [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/ekoF)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](".")
@@ -40,8 +40,9 @@ See my [website](knaaptime.com) for more info
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cenpy-devs&repo=cenpy)](https://github.com/anuraghazra/github-readme-stats)
 
--->
 
 <img src=https://knaaptime.com/images/chi_line.jpg height=120rem style="display: block;
   margin-left: auto;
   margin-right: auto;">
+
+-->
