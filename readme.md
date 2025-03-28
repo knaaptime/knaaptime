@@ -7,12 +7,6 @@
 ## @knaaptime
 
 
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/knaaptime)
-[![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/ekoF)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](".")
-![Profile views](https://gpvc.arturio.dev/knaaptime)
-[![GitHub followers](https://img.shields.io/github/followers/knaaptime.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/knaaptime?tab=followers)
-
 Eli Knaap, Ph.D
 
 - I do research on cities, spatial structure, and social inequality
